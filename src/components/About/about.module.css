@@ -1,0 +1,8 @@
+.about{
+  background-color: var(--main-color);
+  padding-top: 180px;
+  padding-bottom: 185px;
+}
+.p_about {
+  text-align: justify; 
+}

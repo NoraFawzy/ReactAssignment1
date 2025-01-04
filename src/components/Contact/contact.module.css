@@ -1,0 +1,20 @@
+.contact{
+  padding-top: 40px;
+  padding-bottom: 85px;
+}
+.contact_h2{
+  color: rgb(44, 62, 80);
+}
+.contact_p{
+  background-color: var(--second-color);
+}
+.label_text{
+  color: var(--main-color);
+  transition: .6s top;
+}
+.label_btn{
+  background-color: var(--main-color);
+}
+.contact_input:focus .label_text{
+  display: block;
+}

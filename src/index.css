@@ -1,0 +1,10 @@
+:root {
+  --main-color: #1abc9c;
+  --second-color: #2c3e50;
+}
+
+.active{
+  background-color: var(--main-color) !important;
+  border-radius: 10px;
+}
+

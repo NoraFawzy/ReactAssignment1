@@ -1,0 +1,19 @@
+.portfolio{
+  padding-top: 40px;
+  padding-bottom: 85px;
+}
+.portfolio_h2{
+  color: rgb(44, 62, 80);
+}
+.portfolio_p{
+  background-color: var(--second-color);
+}
+.layer{
+  background-color: #1abc9ce6;
+  opacity: 0;
+  cursor: pointer;
+  transition: .6s opacity;
+}
+.layer:hover {
+  opacity: 1;
+}

@@ -1,0 +1,11 @@
+footer{
+  background-color: var(--second-color);
+  text-align: center;
+  padding: 40px;
+}
+.cards{
+  background-color: var(--second-color);
+}
+.p_footer{
+  background-color: #1a252f;
+}
